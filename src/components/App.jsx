@@ -51,7 +51,7 @@ class App extends Component{
         return(
             <div className="App">
                 <div className="title">
-                    Reminder Tune
+                    Reminder Tune 1
                 </div>
                 <div className="form-inline reminder-form">
                     <div className="form-group">
